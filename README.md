@@ -3,7 +3,6 @@
 - 👨‍🎓 I am a high school student
 - ⌨ I am probably currently working on a random beginner project
 - 🤯 I had taken (not yet done but nearly finished) cs50x
-- 📞 You can reach me at: ismrfrog@gmail.com
 - Fun Fact: I have the same birthday as Kurt Cobain and Rihanna.
   
 <!--
