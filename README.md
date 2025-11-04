@@ -4,8 +4,6 @@
 - ⌨ I am probably currently working on a random beginner project
 - 🤯 I had taken (not yet done but nearly finished) cs50x
 - Fun Fact: I have the same birthday as Kurt Cobain and Rihanna.
-
-{{ wakatimeDoubleCategoryBar "💾 Languages:" wakatimeData.Languages "💼 Projects:" wakatimeData.Projects 5 }}
   
 <!--
 **KevFroo/kevfroo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
