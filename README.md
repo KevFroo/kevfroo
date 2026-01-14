@@ -2,7 +2,8 @@
 - 🥸 I am KevFro (or KevFroo on GitHub)
 - 👨‍🎓 I am a high school student
 - ⌨ I am probably currently working on a random beginner project
-- 🤯 I had taken (not yet done but nearly finished) cs50x
+- 🤯 I had taken cs50x
+- 🔭 I am also working on The Odin Project
 - Fun Fact: I have the same birthday as Kurt Cobain and Rihanna.
   
 <!--
