@@ -1,6 +1,6 @@
 ## Hi there 👋
 - 🥸 I am KevFro (or KevFroo on GitHub)
-- 👨‍🎓 I am a high school student
+- 👨‍🎓 I am a high school student in the IB Diploma Programme
 - ⌨ I am probably currently working on a random beginner project
 - 🤯 I had taken cs50x
 - 🔭 I am also working on The Odin Project
